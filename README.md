@@ -22,6 +22,7 @@ THC (torch height controller) for Plasma CNC controller with Arduino UNO base
     * arcVoltPin      A0 //PORTC 0
 ![Arduino THC](https://github.com/PhamDuyAnh/Arduino_Plasma_THC/blob/master/Arduino-THC.jpg)
 
+![Arduino THC prototype](https://github.com/PhamDuyAnh/Arduino_Plasma_THC/blob/master/Arduino-THC-2.jpg)
 
 ### Library
   - Used library
