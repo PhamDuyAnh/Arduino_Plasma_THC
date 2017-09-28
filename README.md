@@ -24,6 +24,8 @@ THC (torch height controller) for Plasma CNC controller with Arduino UNO base
 
 ![Arduino THC prototype](https://github.com/PhamDuyAnh/Arduino_Plasma_THC/blob/master/Arduino-THC-2.jpg)
 
+![Arduino THC Voltage Devider](https://github.com/PhamDuyAnh/Arduino_Plasma_THC/blob/master/Arduino-THC-VD.jpg)
+
 ### Library
   - Used library
     * <LiquidCrystal.h>
