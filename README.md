@@ -48,4 +48,4 @@ THC (torch height controller) for Plasma CNC controller with Arduino UNO base
 
 ### Donation
   -  Paypal: phamduyanh@gmail.com or https://www.paypal.me/phamduyanh
-  -  BTC: 168908e8-1d6f-4133-89b9-19a7914ad344
+  -  BTC: 1MCJ7f4yGHmCbZtfKGT5UZeprkq7pTkJBY
