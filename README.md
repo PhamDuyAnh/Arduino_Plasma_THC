@@ -20,11 +20,17 @@ THC (torch height controller) for Plasma CNC controller with Arduino UNO base
     * outputUpPin     A4 //PORTC 4
     * outputDnPin     A3 //PORTC 3
     * arcVoltPin      A0 //PORTC 0
+
+### A few pictures of voltage divider
 ![Arduino THC](https://github.com/PhamDuyAnh/Arduino_Plasma_THC/blob/master/Arduino-THC.jpg)
 
 ![Arduino THC prototype](https://github.com/PhamDuyAnh/Arduino_Plasma_THC/blob/master/Arduino-THC-2.jpg)
 
 ![Arduino THC Voltage Devider](https://github.com/PhamDuyAnh/Arduino_Plasma_THC/blob/master/Arduino-THC-VD.jpg)
+
+![Arduino THC Voltage Devider](https://github.com/PhamDuyAnh/Arduino_Plasma_THC/blob/master/THC voltage divider 2.jpg)
+
+![Arduino THC Voltage Devider](https://github.com/PhamDuyAnh/Arduino_Plasma_THC/blob/master/THC voltage divider 1.jpg)
 
 ### Library
   - Used library
